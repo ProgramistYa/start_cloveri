@@ -1,6 +1,6 @@
-:white_check_mark: Ответы на 1 и 2 задание в models.py
-:white_check_mark: Ответ на 3 задание в Readme.md
-:white_check_mark: Ответ на 4 и 5 в req.sql
+:white_check_mark: Ответы на 1 и 2 задание в models.py    
+:white_check_mark: Ответ на 3 задание в Readme.md    
+:white_check_mark: Ответ на 4 и 5 в req.sql    
 
 
 ### 3.API на сервере проекта для сохранения местонахождения врача может принимать следующие параметры:
